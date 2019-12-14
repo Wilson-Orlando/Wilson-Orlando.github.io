@@ -7,7 +7,7 @@
 <p style="text-align: left;">Upvotes are pretty good right</p>
 <h2 style="text-align: center;">Getting Started with the Data</h2>
 <p style="text-align: left;">We use some libraries that are pretty cool.</p>
-<p style="text-align: left;">```python<br />#!pip install textblob<br />#!pip install torch<br />#!pip install praw<br />from textblob import TextBlob<br />import torch<br />import torch.nn as nn<br />import torch.optim as optim<br />import pandas as pd<br />import matplotlib.pyplot as plt<br />import seaborn as sns<br />from sklearn.linear_model import Lasso, LogisticRegression<br />import sklearn.metrics as metrics<br />from sklearn.model_selection import train_test_split<br />from tqdm import tqdm<br />from pprint import pprint<br />import numpy as np<br />import praw<br />import pdb<br />import warnings<br />warnings.filterwarnings("ignore")<br />```</p>
+<p>```python #!pip install textblob #!pip install torch #!pip install praw from textblob import TextBlob import torch import torch.nn as nn import torch.optim as optim import pandas as pd import matplotlib.pyplot as plt import seaborn as sns from sklearn.linear_model import Lasso, LogisticRegression import sklearn.metrics as metrics from sklearn.model_selection import train_test_split from tqdm import tqdm from pprint import pprint import numpy as np import praw import pdb import warnings warnings.filterwarnings("ignore") ```</p>
 <h3 style="text-align: left;">Data Collection</h3>
 <p>PRAW is a good API that let us get these datasets.</p>
 <p>&nbsp;</p>
